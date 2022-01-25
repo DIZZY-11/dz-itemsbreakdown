@@ -11,4 +11,4 @@ ensure dz-itemsbreakdown
 ```
 Change what ever you wan't on sh-config.lua
 ```
-![image](https://cdn.discordapp.com/attachments/818826882547056650/935624312428318780/unknown.png)
+![image](https://cdn.discordapp.com/attachments/818826882547056650/935624592645582919/unknown.png)
