@@ -2,7 +2,7 @@
 ## How to install
 
 - Download Files
-- Put items.sql to your database
+- Put items.sql into your sql
 - Add on CFG
 ```
 ensure dz-itemsbreakdown
