@@ -20,4 +20,9 @@ Change what ever you wan't on sh-config.lua
 - The phone is damaged and with another object you have to repair the broken phone.
 - Clean money and black money are spoiled, so they are removed only from what you carry with you.
 
+## Dependencies 
+- mythic_notify (https://github.com/JayMontana36/mythic_notify)
+- progressBars (https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
+
 ![image](https://cdn.discordapp.com/attachments/818826882547056650/935624592645582919/unknown.png)
+
